@@ -1,5 +1,7 @@
 # spms-ui
 
+***Deprecated!*** Move to monorepo, [here](https://github.com/bervProject/SimplePasswordManagerService).
+
 ## Project setup
 ```
 yarn install
